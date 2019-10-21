@@ -38,14 +38,10 @@ int main()
 
     switch(operation2) {
         case '+':
-          //  result =
                    r3 = r1+num3;
-          // cout<<result;
             break;
         case '-':
-          //  result =
                   r3 = r1-num3;
-        // cout<<result;
             break;
         default:
             cout<<"error";
